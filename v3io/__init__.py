@@ -14,4 +14,4 @@
 #
 __version__ = "0.0.0+unstable"
 
-from . import aio, dataplane, logger  # noqa: F401
+from . import dataplane  # noqa: F401
