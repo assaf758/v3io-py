@@ -14,4 +14,4 @@
 #
 __version__ = "0.0.0+unstable"
 
-from . import dataplane  # noqa: F401
+from .dataplane import Client, RaiseForStatus  # noqa: F401
